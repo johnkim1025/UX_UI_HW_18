@@ -149,7 +149,7 @@ button:focus {
 .projects {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     margin: 0 10% 0 10%;
 }
